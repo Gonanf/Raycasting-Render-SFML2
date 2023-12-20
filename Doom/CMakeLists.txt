@@ -1,0 +1,10 @@
+cmake_minimum_required(VERSION 3.26.4)
+project (Doom)
+include_directories("${PROJECT_BINARY_DIR}")
+set(CMAKE_EXE_LINKER_FLAGS "-static")
+set(SFML_STATIC_LIBRARIES TRUE)
+set(SFML_DIR "C:/Users/Chaos/Documents/Librerias/SFML-2.6.0/lib/cmake/SFML")
+find_package(SFML 2.6 COMPONENTS graphics audio REQUIRED)
+add_executable(Doom ../src/main.cpp)
+target_link_libraries(Doom sfml-graphics sfml-audio)
+
