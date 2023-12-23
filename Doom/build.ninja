@@ -1,6 +1,0 @@
-flags = -o2
-
-rule Compile
-    command = g++ $flags $in -o $out 
-
-build main.exe: Compile main.cpp -Renderer.hpp

@@ -1,3 +1,0 @@
-C:/Users/Chaos/Desktop/Programacion/Doom/build/CMakeFiles/Doom.dir
-C:/Users/Chaos/Desktop/Programacion/Doom/build/CMakeFiles/edit_cache.dir
-C:/Users/Chaos/Desktop/Programacion/Doom/build/CMakeFiles/rebuild_cache.dir

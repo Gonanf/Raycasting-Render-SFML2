@@ -1,8 +1,0 @@
-[
-{
-  "directory": "C:/Users/Chaos/Desktop/Programacion/Doom/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DSFML_STATIC -IC:/Users/Chaos/Desktop/Programacion/Doom/build -isystem C:/Users/Chaos/Documents/Librerias/SFML-2.6.0/include -g -o CMakeFiles\\Doom.dir\\src\\main.cpp.obj -c C:\\Users\\Chaos\\Desktop\\Programacion\\Doom\\src\\main.cpp",
-  "file": "C:\\Users\\Chaos\\Desktop\\Programacion\\Doom\\src\\main.cpp",
-  "output": "CMakeFiles\\Doom.dir\\src\\main.cpp.obj"
-}
-]
